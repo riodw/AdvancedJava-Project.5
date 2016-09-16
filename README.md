@@ -2,7 +2,7 @@
 ## Project 5 : Threads - (Fish Tank : Aquarium)
 ### Output Graphical:
 --------------------
-![Output 1](http)
+![Fish Tank](https://raw.githubusercontent.com/riodw/AdvancedJava-Project.5/master/Fish.png)
 --------------------
 **OutPut:**
 ```
